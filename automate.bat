@@ -6,4 +6,4 @@ for /L %%i in (1,1,3) do (
     timeout /t 3 /nobreak > NUL
 )
 REM Open the default web browser and fetch the Wikipedia site 
-start https://www.wikipedia.org
+start https://medium.com/
